@@ -4,7 +4,7 @@ A kana estimator for word.
 
 ## Dependencies
 
-- ruby 2.3+
+- ruby 2.6+
 
 ## Installation
 
